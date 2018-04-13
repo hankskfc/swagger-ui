@@ -2,4 +2,4 @@
 集中化管理java 文档API
 
 ## demo展示
-![image](https://github.com/hankskfc/swagger-ui/swagger-ui.png)
+![image](https://raw.githubusercontent.com/hankskfc/swagger-ui/master/swagger-ui.png)
